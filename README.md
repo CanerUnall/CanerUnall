@@ -1,4 +1,4 @@
-
+[![MasterHead](https://media.licdn.com/dms/image/D4E03AQE-3JXTbUk-XQ/profile-displayphoto-shrink_400_400/0/1688759529899?e=1708560000&v=beta&t=PLMFvGeYIow2lz94aSpGzU1xJL8_C-HGnvAbhpIKDbY)
 <h1 align="center">Hi 👋, I'm Caner Ünal</h1>
 <h3 align="center">A passionate a java developer student from Netherlands</h3>
 
@@ -15,10 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerunall&show_icons=true&locale=en&layout=compact" alt="canerunall" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canerunall&show_icons=true&locale=en" alt="canerunall" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CanerUnall/CanerUnall/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CanerUnall/CanerUnall/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CanerUnall/CanerUnall/output/github-contribution-grid-snake.svg">
-</picture>
-
