@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E03AQE-3JXTbUk-XQ/profile-displayphoto-shrink_400_400/0/1688759529899?e=1708560000&v=beta&t=PLMFvGeYIow2lz94aSpGzU1xJL8_C-HGnvAbhpIKDbY)
+
 <h1 align="center">Hi 👋, I'm Caner Ünal</h1>
 <h3 align="center">A passionate a java developer student from Netherlands</h3>
 
