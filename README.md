@@ -1,4 +1,4 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+
 <h1 align="center">Hi 👋, I'm Caner Ünal</h1>
 <h3 align="center">A passionate a java developer student from Netherlands</h3>
 
@@ -16,5 +16,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canerunall&show_icons=true&locale=en" alt="canerunall" /></p>
 
-![snake gif](https://github.com/CanerUnall/CanerUnall/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CanerUnall/CanerUnall/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CanerUnall/CanerUnall/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CanerUnall/CanerUnall/output/github-contribution-grid-snake.svg">
+</picture>
 
