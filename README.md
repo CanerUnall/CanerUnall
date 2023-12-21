@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Caner Ünal</h1>
 <h3 align="center">A passionate a java developer student from Netherlands</h3>
 
